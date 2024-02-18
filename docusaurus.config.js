@@ -17,7 +17,7 @@ const config = {
   baseUrl: '/documentacion/',
 
   // GitHub pages deployment config.
-  organizationName: 'chatbuho',
+  organizationName: 'joscr17',
   projectName: 'documentacion',
   deploymentBranch: 'gh-pages',
   trailingSlash: false,
