@@ -63,7 +63,7 @@ const config = {
         title: '',
         logo: {
           alt: 'Documentación de Chat Buho',
-          src: 'https://buho.la/images/chat/chat-buho.svg',
+          src: 'https://seeklogo.com/images/S/senati-2017-cian-logo-03B058070F-seeklogo.com.png',
         },
         items: [
           // {
